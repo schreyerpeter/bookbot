@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!# bookbot
+BookBot parses and displays analytics on books using Python.
